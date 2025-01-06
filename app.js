@@ -1,4 +1,5 @@
 console.log('function.js 1');
+console.log('bit js 07-08');
 
 function getRandom(min, max) {
     const minCeiled = Math.ceil(min);
